@@ -1,0 +1,17 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+    }
+}
+
+plugins {
+    id 'org.gradle.toolchains.foojay-resolver-convention' version '0.9.0'
+}
+
+includeBuild('../immersive-enchanting') {
+    dependencySubstitution {
+        substitute module('me.alfie.immersiveenchanting:immersiveenchanting') using project(':')
+    }
+}
+
+rootProject.name = 'stackednotbranched'
