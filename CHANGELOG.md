@@ -12,5 +12,5 @@
 ### Compatibility
 
 - Minecraft 1.21.1 with NeoForge 21.1.209 or newer.
-- Requires Immersive Enchanting 6.0.2 or newer.
+- Requires Immersive Enchanting 6.0 or newer.
 - Client-side only and intentionally configuration-free.

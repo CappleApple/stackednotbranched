@@ -1,6 +1,6 @@
 # Stacked Not Branched
 
-A client-side NeoForge 1.21.1 addon for Immersive Enchanting 6.0.2 and newer.
+A client-side NeoForge 1.21.1 addon for Immersive Enchanting 6.0 and newer.
 
 The addon is intentionally configuration-free. When installed, it always:
 
@@ -15,7 +15,7 @@ Remove the addon to return to Immersive Enchanting's original per-level interfac
 
 - Minecraft 1.21.1
 - NeoForge 21.1.209 or newer
-- Immersive Enchanting 6.0.2 or newer
+- Immersive Enchanting 6.0 or newer
 - Alfinolib 1.2.0 or newer, inherited from Immersive Enchanting
 
 ## Building
